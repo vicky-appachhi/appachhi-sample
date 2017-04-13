@@ -1,2 +1,2 @@
 # appachhi-sample
-Git tutorial
+Appachhi
